@@ -206,11 +206,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <th>Time</th>
-    <th><b>Monday 21/08</b></th>
-    <th><b>Tuesday 22/08</b></th>
-    <th><b>Wednesday 23/08</b></th>
-    <th><b>Thursday 24/08</b></th>
-    <th><b>Friday 25/08</b></th>
+    <th><b>Monday 19/08</b></th>
+    <th><b>Tuesday 20/08</b></th>
+    <th><b>Wednesday 21/08</b></th>
+    <th><b>Thursday 22/08</b></th>
+    <th><b>Friday 23/08</b></th>
   </tr>
   <!-- <tr>
     <td><b>Facilitator(s)</b></td>
