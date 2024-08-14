@@ -284,11 +284,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <th class="tg-amwm"><b>Time</b></th>
-    <th class="tg-amwm"><b>Monday 28/08</b></th>
-    <th class="tg-amwm"><b>Tuesday 29/08</b></th>
-    <th class="tg-amwm"><b>Wednesday 30/08</b></th>
-    <th class="tg-amwm"><b>Thursday 31/08</b></th>
-    <th class="tg-amwm"><b>Friday 01/09</b></th>
+    <th class="tg-amwm"><b>Monday 26/08</b></th>
+    <th class="tg-amwm"><b>Tuesday 27/08</b></th>
+    <th class="tg-amwm"><b>Wednesday 28/08</b></th>
+    <th class="tg-amwm"><b>Thursday 29/08</b></th>
+    <th class="tg-amwm"><b>Friday 30/08</b></th>
   </tr>
   <!-- <tr>
     <td><b>Facilitator(s)</b></td>
@@ -302,15 +302,15 @@ Below is an outline of the current plan for course topics and schedule. It is in
   
   
   <tr>
-    <td class="tg-amwm"><b>8:30-10:00</b></td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Dimension reduction: PCA</td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Discovery Clustering , co-occurrence</td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction: Prediction: SVM, LDA</td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction: Boosting</td>
-    <td class="tg-0lax">Wrap up and closure</td>
+    <td class="tg-amwm"><b>9:00-10:30</b></td>
+    <td class="tg-0lax">Causal modelling versus predictive modelling</td>
+    <td class="tg-0lax">Geospatial Data and Its Applications in Health</td>
+    <td class="tg-0lax">Overview of Health Information Systems (HIS)</td>
+    <td class="tg-0lax">Financing for Health</td>
+    <td class="tg-0lax">Practicals / Mini projects</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>10:00-11:00</b></td>
+    <td class="tg-amwm"><b>10:30-11:00</b></td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -318,15 +318,15 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>11:00-13:00</b></td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Dimension reduction: LCA</td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Discovery Clustering, co-occurrence </td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Decision trees, random plots </td>
-    <td class="tg-0lax">Introduction to Data Science methods for Health systems analysis: Prediction Neural Networks</td>
+    <td class="tg-amwm"><b>11:00-12:30</b></td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> Mapping Disease Spread and Health Resource Allocation </td>
+    <td class="tg-0lax"> Designing and Implementing HIS </td>
+    <td class="tg-0lax">Case Studies of Data-Driven Health Financing Interventions</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>13:00-14:00</b></td>
+    <td class="tg-amwm"><b>12:30-13:30</b></td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -334,11 +334,20 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr> 
-    <td class="tg-amwm"><b>14:00-16:00</b></td>
-    <td class="tg-0lax">Practical work</td>
-    <td class="tg-0lax">Practical work</td>
-    <td class="tg-0lax">Practical work</td>
-    <td class="tg-0lax">Practical work</td>
+    <td class="tg-amwm"><b>13:30-15:00</b></td>
+    <td class="tg-0lax">Introduction to Clustering Analysis in Health Data Science - Definition and Importance of Clustering Analysis - Types of Clustering Techniques (Hierarchical, Partitioning, Density-based</td>
+    <td class="tg-0lax">Using GIS Software for Health Data</td>
+    <td class="tg-0lax">Quality Improvement/td>
+    <td class="tg-0lax">Methods for Evaluating Health Programs</td>
+    <td class="tg-0lax"></td>
+  </tr>
+
+  <tr>
+    <td class="tg-amwm"><b>15:00-16:00</b></td>
+    <td class="tg-0lax">Applications of Clustering in Health Systems</td>
+    <td class="tg-0lax">Geospatial Analysis and Mapping</td>
+    <td class="tg-0lax">Case study Quality Improvement</td>
+    <td class="tg-0lax">Case Study:  Designing Evaluation Frameworks</td>
     <td class="tg-0lax"></td>
   </tr>
   
