@@ -132,9 +132,9 @@ title: Health Systems Short Course
 <!-- <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2> -->
 <!-- <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4> -->
 
-<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 21st August – Friday, 1st September 2023 </h2> 
+<h2 style="background-color:white; color:black; text-align: left;"> Dates: Monday, 19th August – Friday, 30th September 2024 </h2> 
 <h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. </h4>
-<h4 style="background-color:white; color:black; text-align: left;"> Virtual Link: <a href="https://www.google.com/url?q=https://ukzn.zoom.us/j/93891463089?pwd%3DeFN3ZjR4eUNJLzZwVEhmRVZXeHJxQT09&sa=D&source=calendar&usd=2&usg=AOvVaw1yN0XnFQ1sfYfzHrpjoIa6" target="_blank"><span style="text-align:center">Join Lectures</span></a> </h4> <br>
+<h4 style="background-color:white; color:black; text-align: left;"> Virtual Link: <a href="https://ukzn.zoom.us/j/95874007508?pwd=lGC5gyTCriQwg4tNKvmPIkHYWfFUu1.1" target="_blank"><span style="text-align:center">Join Lectures</span></a> </h4> <br>
 
 <!-- <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. -->
 
