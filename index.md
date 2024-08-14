@@ -221,14 +221,22 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td>Santiago, Sandra, Mohanad</td>
     <td>Santiago, Sandra, Mohanad</td>
   </tr> -->
-  
+
+  <tr>
+    <td><b>8:15-8:30</b></td>
+    <td>Welcome and Introduction to the course</td>
+    <td>Recap of day 1</td>
+    <td>Recap of day 2</td>
+    <td>Recap of day 3</td>
+    <td> Recap of day 4 </td>
+  </tr>
   <tr>
     <td><b>8:30-10:00</b></td>
-    <td>Welcome, Introduction and Expectations (SN) [8:30 - 9:00] - Introductory concepts- Health (OM) [9:00 - 10:00]</td>
-    <td>Health systems building blocks-Services & Finances (OM)</td>
-    <td>Strengthening Health Systems + Health system resilience and monitoring health system strengthening (SN)</td>
-    <td>Systems thinking (OM)</td>
-    <td> Intro to causal inference (TB) </td>
+    <td>Overview of Health Systems in LMICs -  (Starting at 09h00)</td>
+    <td>Concepts and methods in epidemiology - Intro to epidemiology/global health and health data science</td>
+    <td>Lecture (Sensitivity, specificity, ppv, npv)</td>
+    <td>Trusted Research Environment - Ethics, Data governance, Data sharing Ethics, Data governance, Data sharing</td>
+    <td> Directed Acyclic Graphs (DAGs) </td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>10:00-10:30</b></td>
@@ -239,36 +247,22 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>10:30-12:30</b></td>
-    <td class="tg-0lax">Introductory concepts- Health systems- including goals and functions (OM) [ 10:30 - 11:30] - Comparative health systems (SN) [11:30 - 12:30] - Discussion and allocation of tasks [12:30 - 13:00]</td>
-    <td class="tg-0lax">Health systems building blocks Stewardship and Information System (SN) [10:30 - 12:30] - Discussion [12:30 - 13:00]</td>
-    <td class="tg-0lax">Quality for health systems (OM) [10:30 - 12:30] - Discussion [12:30 - 13:00]</td>
-    <td class="tg-0lax">Leadership and management (AH) [10:30 - 12:30] - Discussion [12:30 - 13:00]</td>
-    <td class="tg-0lax">Causal inference continued (TB)</td>
+    <td class="tg-amwm"><b>10:30-12:00</b></td>
+    <td class="tg-0lax">Challenges and Opportunities in African Health Systems, Mapping Health System Components
+(Building Blocks)</td>
+    <td class="tg-0lax">Study designs: basic & measures of effect - Bias & confounding</td>
+    <td class="tg-0lax">Data Quality and Data Management</td>
+    <td class="tg-0lax">Trusted Research Environment - Ethics, Data governance, Data sharing Ethics, Data governance, Data sharing</td>
+    <td class="tg-0lax"> </td>
   </tr>
+  
   <tr>
-    <td class="tg-amwm"><b>13:00-14:00</b></td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm"><b>14:00-15:00</b></td>
-    <td class="tg-0lax">Group tasks</td>
-    <td class="tg-0lax">Health systems building blocks- HR Medicines and supplies (SS or AH)</td>
-    <td class="tg-0lax">Group tasks Quality</td>
-    <td class="tg-0lax">Evaluation of health systems (AH)</td>
-    <td class="tg-0lax">Practical task</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm"><b>15:00-16:30</b></td>
-    <td class="tg-0lax">Group tasks and feedback</td>
-    <td class="tg-0lax">Health system performance (SS or AH)</td>
-    <td class="tg-0lax">Group tasks and feedback</td>
-    <td class="tg-0lax">Feedback from class</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-amwm"><b>12:00-13:00</b></td>
+    <td class="tg-0lax">Practical - Case Study Analysis of Health Systems in Selected African Countries</td>
+    <td class="tg-0lax">Example –case studies</td>
+    <td class="tg-0lax">Example –case studies</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"> </td>
   </tr>
   
 </table>
