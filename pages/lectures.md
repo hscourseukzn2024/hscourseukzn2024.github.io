@@ -129,7 +129,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Healthcare systems 2024.pdf" download> Healthcare systems - Prof. O Mahomed </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Health system 2024 .pdf" download> Health system - Prof. O Mahomed </a> <br>
+<a href="https://hscourseukzn.github.io/PDFLectures/Health system 2024.pdf" download> Health system - Prof. O Mahomed </a> <br>
 
 <!--
 <h4> Day 2:</h4>
