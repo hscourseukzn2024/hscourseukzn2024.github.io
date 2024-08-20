@@ -136,15 +136,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <!--
 <h4> Day 2:</h4>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Health system building block session 1.pdf" download> Health system building block - Prof. O Mahomed </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Introduction to Epidemiology.pdf" download> Introduction to Epidemiology - Dr. Swabhavika Singh </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/presentation 3.pdf" download> LEADERSHIP AND GOVERNANCE </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Prac session Epi 20.08.24 - Copy.pdf" download> Prac session Epi </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/Presentation Finance.pdf" download> HEALTHCARE FINANCING </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/human resources for health.pdf" download> HEALTH WORKFORCE </a> <br>
-
-<a href="https://hscourseukzn.github.io/PDFLectures/medicnes vaccines and technology.pdf" download> MEDICAL PRODUCTS, VACCINES AND TECHNOLOGIES </a> <br>
 
 <h4> Day 3:</h4>
 
