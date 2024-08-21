@@ -139,13 +139,13 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Introduction to Epidemiology.pdf" download> Introduction to Epidemiology - Dr. Swabhavika Singh </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Prac session Epi 20.08.24 - Copy.pdf" download> Prac session Epi </a> <br>
-<!--
+
 <a href="https://hscourseukzn2024.github.io/PDFLectures/DSI-Health Sytems_ Study Design_Washa Takwimu _Final.pdf" download> Study Design - Prof. S Naidoo </a> <br> 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/DSI-Health Sytems_ Case-control Studies.pdf" download> Case-control Studies - Dr. Viadisha Naidoo </a> <br> 
 
 
--->
+
 
 
 
@@ -155,7 +155,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/screening 2024.pdf" download> Data - Dr. Saajida Mahomed</a> <br>
 
-<a href="https://hscourseukzn2024.github.io/PDFLectures/jgi_30091.pdf" download> reading material: the issues with using overall accuracy when evaluating a test </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/jgi_30091.pdf" download> Reading material: the issues with using overall accuracy when evaluating a test </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Audience Experience.pptx" download> Audience Experience - Dr. Anna Nitschke </a> <br>
 <!--
