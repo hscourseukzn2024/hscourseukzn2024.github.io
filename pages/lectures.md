@@ -149,12 +149,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-<!--
+
 
 <h4> Day 3:</h4>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Audience Experience.pptx" download> Audience Experience Dr. Anna Nitschke </a> <br>
-
+<!--
 <a href="https://hscourseukzn.github.io/PDFLectures/Copy of Data.xls" download> Data - Dr. Swabhavika & Dr. Vidaisha</a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Health systemn strengthening.pdf" download> Health systems strengthening - Prof. S Saloshni </a> <br>
