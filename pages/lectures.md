@@ -158,12 +158,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/jgi_30091.pdf" download> Reading material: the issues with using overall accuracy when evaluating a test </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Audience Experience.pptx" download> Audience Experience - Dr. Anna Nitschke </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Data Quality and Data Preprocessing _ Nitschke.pdf" download> Data Quality and Data Preprocessing - Dr. Anna Nitschke </a> <br>
+
 <!--
 
 
-
-
-<a href="https://hscourseukzn.github.io/PDFLectures/Quality and Healthcare .pdf" download> Quality and Healthcare - Prof. O Mahomed </a> <br>
 
 <h4> Day 4:</h4>
 
