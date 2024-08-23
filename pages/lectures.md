@@ -161,14 +161,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Data Quality and Data Preprocessing _ Nitschke.pdf" download> Data Quality and Data Preprocessing - Dr. Anna Nitschke </a> <br>
 
-<!--
+
 
 
 
 <h4> Day 4:</h4>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/System thinking in Healthcare Management2.pdf" download> System thinking in Healthcare Management - Dr. Avashri </a> <br>
-
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Bias and confounding.pdf" download> Bias and confounding - Dr. Swabhavika Singh </a> <br>
+<!--
 <a href="https://hscourseukzn.github.io/PDFLectures/LEADERSHIP IN HEALTHCARE.pdf" download> LEADERSHIP IN HEALTHCARE - Dr. Avashri </a> <br>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/MONITORING AND EVALUATION- 2022 (1).pdf" download> MONITORING AND EVALUATION- 2022 - Dr. Avashri </a> <br>
