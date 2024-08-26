@@ -39,6 +39,12 @@ Email: <a href="mailto:211509368@stu.ukzn.ac.za">211509368@stu.ukzn.ac.za</a> <b
 <p align="justify"> <img src="../figures/Vidaisha.PNG" alt="Vidaisha" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Vidaisha Naidoo is a third year Public Health Medicine registrar at the University of KwaZulu-Natal’s School of Nursing and Public Health. Vidaisha qualified as a medical doctor in 2016 and obtained her Bachelor of Medicine and Surgery (MBChB) from the University of KwaZulu-Natal. Vidaisha completed her internship at General Justice Gizenga Mpanza Regional Hospital in 2018 and completed community service at Inanda A Community Health Centre in 2019. Vidaisha worked as a medical officer at General Justice Gizenga Mpanza Regional Hospital until 2021, in the Family Medicine and HIV units. Vidaisha has a special interest in public health data management, health information systems and health technology. </span> Visit <a href="" target="_blank"><span style="text-align:center">Naidoo's website</span></a> for more information about her work. </p> <br>
 
 
+<h4 style="color:DodgerBlue;"> Innocent Maposa, facilitator </h4>
+Stellenbosch University, South Africa. <br>
+Email: <a href="mailto:imaposa@sun.ac.za">imaposa@sun.ac.za</a> <br>
+<p align="justify"> <img src="../figures/Maposa.PNG" alt="Vidaisha" style="float:left; width:100px; height:100px; padding: 10px;"><span style="vertical-align:bottom"> Innocent Maposa is a biostatistician with close to 15 years of teaching and research experience. He has training in both Mathematics and Statistics, with a PhD and MSc in Statistics. In addition, Dr Maposa is a public health data scientist with interest in explainable/interpretable machine learning (IML) and is currently working in a few projects that implements these methods. His biostatistics methodological and application interests include survival analysis, longitudinal data analysis, Bayesian methods as well as spatial analysis and modelling. Currently, he is the MSc and PhD Biostatistics programme convenor at Stellenbosch University in the Division of Epidemiology & Biostatistics within the Global Health Department. </span> Visit <a href="" target="_blank"><span style="text-align:center">Maposa's website</span></a> for more information about his work. </p> <br>
+
+
 
 <h4 style="color:DodgerBlue;"> Dr. Mohanad Mohammed, Co-facilitator </h4>
 WASHU Takwimu Postdoctoral Fellow, UKZN, South Africa. <br>
