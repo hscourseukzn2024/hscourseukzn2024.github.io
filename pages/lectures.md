@@ -124,6 +124,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
+<h2>Week 1 : Virtual</h2>
 
 <h4> Day 1:</h4>
 
@@ -145,12 +146,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/DSI-Health Sytems_ Case-control Studies.pdf" download> Case-control Studies - Dr. Viadisha Naidoo </a> <br> 
 
 
-
-
-
-
-
-
 <h4> Day 3:</h4>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/screening 2024.pdf" download> Data - Dr. Saajida Mahomed</a> <br>
@@ -163,14 +158,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-
-
 <h4> Day 4:</h4>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Bias and confounding.pdf" download> Bias and confounding - Dr. Swabhavika Singh </a> <br>
 
 
-
+<h2>Week 2 : In-person</h2>
 
 <!--
 <a href="https://hscourseukzn.github.io/PDFLectures/LEADERSHIP IN HEALTHCARE.pdf" download> LEADERSHIP IN HEALTHCARE - Dr. Avashri </a> <br>
