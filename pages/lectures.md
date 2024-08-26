@@ -165,10 +165,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h2>Week 2 : In-person</h2>
 
-<!--
-<a href="https://hscourseukzn.github.io/PDFLectures/LEADERSHIP IN HEALTHCARE.pdf" download> LEADERSHIP IN HEALTHCARE - Dr. Avashri </a> <br>
 
-<a href="https://hscourseukzn.github.io/PDFLectures/MONITORING AND EVALUATION- 2022 (1).pdf" download> MONITORING AND EVALUATION- 2022 - Dr. Avashri </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Inference-and-predictionv1.pdf" download> Inference-and-prediction - Dr. Innocent Maposa </a> <br>
+<!--
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Causal-modeling-vs-predictive-modeling.pdf" download> Causal modeling vs predictive modeling - Dr. Innocent Maposa </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/popdatex.xlsx" download> Dataset - Dr. Innocent Maposa </a> <br>
 
 <h5>Groups Presentations</h5>
 
