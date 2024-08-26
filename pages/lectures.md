@@ -167,11 +167,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Day 1:</h4>
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Inference-and-predictionv1.pdf" download> Inference and prediction - Dr. Innocent Maposa </a> <br>
-<!--
+
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Causal-modeling-vs-predictive-modeling.pdf" download> Causal modeling vs predictive modeling - Dr. Innocent Maposa </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/popdatex.xlsx" download> Dataset - Dr. Innocent Maposa </a> <br>
-
+<!--
 <h5>Groups Presentations</h5>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Data science QIP vino.pdf" download> Data science QIP - [Dennis - Vincent - Jeroen - Vino] </a> <br>
