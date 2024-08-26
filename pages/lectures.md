@@ -171,6 +171,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Causal-modeling-vs-predictive-modeling.pdf" download> Causal modeling vs predictive modeling - Dr. Innocent Maposa </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/popdatex.xlsx" download> Dataset - Dr. Innocent Maposa </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Unsupervised_Learning_Nitschke.pdf" download> Unsupervised Learning - Anna Nitschke </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Clustering_Practical_Session.Rmd" download> Clustering Practical Session - Mohanad Mohammed </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/clustering_data_final.csv" download> Data for clustering practical - Mohanad Mohammed </a> <br>
+
+
 <!--
 <h5>Groups Presentations</h5>
 
