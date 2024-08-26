@@ -166,7 +166,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h2>Week 2 : In-person</h2>
 
 
-<a href="https://hscourseukzn2024.github.io/PDFLectures/Inference-and-predictionv1.pdf" download> Inference-and-prediction - Dr. Innocent Maposa </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Inference-and-predictionv1.pdf" download> Inference and prediction - Dr. Innocent Maposa </a> <br>
 <!--
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Causal-modeling-vs-predictive-modeling.pdf" download> Causal modeling vs predictive modeling - Dr. Innocent Maposa </a> <br>
 
