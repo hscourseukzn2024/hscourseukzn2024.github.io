@@ -1,0 +1,218 @@
+
+---
+title: "Clustering Practical Session"
+author: ""
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+# Introduction
+
+In this practical session, we will perform clustering analysis using the k-means algorithm. Clustering is an unsupervised learning technique used to group similar observations based on their characteristics. It is widely used in exploratory data analysis.
+
+## Objectives
+
+1. Understand the basics of k-means clustering.
+2. Perform data preparation for clustering analysis.
+3. Implement k-means clustering in R.
+4. Visualize and interpret the results.
+
+# Required Libraries
+
+We will use the following R packages for our analysis:
+
+```{r}
+library(tidyverse)  # Data manipulation and visualization
+library(cluster)    # Clustering algorithms
+library(factoextra) # Clustering visualization
+```
+
+# Data Preparation
+
+To perform a cluster analysis in R, the data should be prepared as follows:
+
+1. Ensure rows represent observations (individuals) and columns represent variables.
+2. Handle any missing values in the data (either by removing or imputing them).
+3. Standardize the data to ensure comparability between variables.
+
+Let's load the data and inspect its structure:
+
+```{r}
+# Load the data
+clustering_data <- read.csv(file.choose(), header = TRUE)
+
+# Inspect the structure of the dataset
+str(clustering_data)
+```
+
+Convert relevant columns to numeric, if necessary:
+
+```{r}
+# Convert variables to numeric
+cols_to_convert <- c("Weight", "Height", "Hemoglobin", "Systolic_BP", "Diastolic_BP", "Hba1c")
+clustering_data[cols_to_convert] <- lapply(clustering_data[cols_to_convert], as.numeric)
+
+# Verify the changes
+str(clustering_data)
+```
+
+Check for missing values:
+
+```{r}
+# Check for missing values
+missing_values <- table(is.na(clustering_data))
+missing_values
+```
+
+If missing values are present, impute or remove them:
+
+```{r}
+# Impute missing values using median (for simplicity)
+clustering_data <- clustering_data %>%
+  mutate(across(everything(), ~ ifelse(is.na(.), median(., na.rm = TRUE), .)))
+
+# Verify no missing values remain
+table(is.na(clustering_data))
+```
+
+
+
+## Clustering Distance Measures
+
+The classification of observations into groups requires some methods for computing the distance or the (dis)similarity between each pair of observations. The result of this computation is known as a dissimilarity or distance matrix. There are many methods to calculate this distance information.
+
+The choice of distance measures is a critical step in clustering. It defines how the similarity of two elements (x, y) is calculated and it will influence the shape of the clusters. The classical methods for distance measures are Euclidean and Manhattan distances, which are defined as follow:
+
+**Euclidean distance:**
+
+$$
+d_{euc}(x, y) = \sqrt{\sum_{i=1}^{n}(x_i - y_i)^2}
+$$
+
+
+**Manhattan distance:**
+
+$$
+d_{man}(x, y) = \sum_{i=1}^{n}|(x_i - y_i)|
+$$
+
+Where, $x$ and $y$ are two vectors of length $n$.
+
+Other dissimilarity measures exist such as correlation-based distances, which is widely used for gene expression data analyses. These are, Pearson correlation distance, Spearman correlation distance, and Kendall correlation distance.
+
+The choice of distance measures is very important, as it has a strong influence on the clustering results. For most common clustering software, the default distance measure is the Euclidean distance. However, depending on the type of the data and the research questions, other dissimilarity measures might be preferred and you should be aware of the options.
+
+
+
+# K-Means Clustering
+
+## Step 1: Determine the Optimal Number of Clusters
+
+Use the Elbow method to find the optimal number of clusters:
+
+```{r}
+# Scale the data
+scaled_data <- scale(clustering_data)
+
+# Determine optimal number of clusters using the Elbow method
+fviz_nbclust(scaled_data, kmeans, method = "wss") +
+  labs(subtitle = "Elbow Method for Determining Optimal Number of Clusters")
+```
+
+## Step 2: Perform K-Means Clustering
+
+Run the k-means algorithm with the selected number of clusters:
+
+```{r}
+# Set seed for reproducibility
+set.seed(123)
+
+# Apply k-means clustering
+kmeans_result <- kmeans(scaled_data, centers = 3, nstart = 25)
+
+# View clustering results
+kmeans_result
+```
+
+## Step 3: Visualize Clustering Results
+
+Visualize the clustering result using `factoextra`:
+
+```{r}
+# Plot the clusters
+fviz_cluster(kmeans_result, data = scaled_data) +
+  labs(title = "K-Means Clustering", x = "Principal Component 1", y = "Principal Component 2")
+```
+
+
+```{r}
+# Cluster means for each variable
+aggregate(scaled_data, by = list(Cluster = kmeans_result$cluster), FUN = mean)
+```
+
+
+```{r}
+# Size of each cluster
+table(kmeans_result$cluster)
+```
+
+```{r}
+library(cluster)
+silhouette_result <- silhouette(kmeans_result$cluster, dist(scaled_data))
+fviz_silhouette(silhouette_result) +
+  labs(title = "Silhouette Plot for K-Means Clustering")
+
+```
+
+
+The figure is a Silhouette Plot for k-means clustering. Silhouette analysis measures how similar an object is to its own cluster (cohesion) compared to other clusters (separation). The silhouette width ranges from -1 to 1, where:
+
+*1* indicates that the object is well matched to its own cluster and poorly matched to neighboring clusters.
+*0* indicates that the object is on or very close to the decision boundary between two neighboring clusters.
+*Negative values* indicate that the object might have been assigned to the wrong cluster.
+
+The Silhouette Plot evaluates the quality of the k-means clustering solution with three clusters:
+
+*Cluster 1 (Red):* This cluster has several points with negative silhouette widths, indicating that these points might be misclassified. Overall, this cluster shows poor cohesion, suggesting it may not be well-formed.
+
+*Cluster 2 (Green):* Most points in this cluster have positive silhouette widths, indicating good clustering. However, some points near the boundary with other clusters have low silhouette values, suggesting they are less well-clustered.
+
+*Cluster 3 (Blue):* This cluster is the most cohesive, with the majority of points having high silhouette widths, indicating strong separation from other clusters and good internal cohesion.
+
+
+
+```{r}
+# PCA and clustering visualization
+pca_res <- prcomp(scaled_data, scale = TRUE)
+fviz_pca_biplot(pca_res, geom.ind = "point", habillage = kmeans_result$cluster, addEllipses = TRUE) +
+  labs(title = "PCA Biplot with K-Means Clusters")
+
+```
+
+
+
+These two principal components (Dim1 and Dim2) explain 52.8% of the variance in the data. Dim1 accounts for 31.7%, and Dim2 accounts for 21.1%. The axes represent these components, with the points projected onto this reduced dimensional space.
+
+The arrows represent the original variables and show how strongly each variable influences the principal components. The direction of the arrows indicates the direction of increasing values for that variable, and the length of the arrow represents the strength of the variable’s contribution to the principal components.
+
+    Height and Weight are positively correlated and contribute significantly to Dim1.
+    Hemoglobin contributes moderately to both Dim1 and Dim2.
+    Diastolic_Blood_Pressure (Diastolic_BP) influences Dim2 strongly.
+
+```{r}
+library(clValid)
+validation <- clValid(scaled_data, nClust = 2:6, clMethods = "kmeans", validation = "internal")
+summary(validation)
+
+```
+
+
+
+
+# Conclusion
+
+In this session, we successfully performed a k-means clustering analysis, identified the optimal number of clusters, and visualized the resulting clusters. Clustering is a powerful tool for exploratory data analysis, allowing us to uncover hidden patterns in the data.
