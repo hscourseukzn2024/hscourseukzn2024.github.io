@@ -187,6 +187,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Track virus spread with ArcGIS Insights.docx" download> Analyse COVID HNK - Dr. Michael Gebreslasie </a> <br>
 
+<a href="https://drive.google.com/file/d/1IgoO8kN7e_8o-4lu-0vH-xjaWBNIVkyl/view?usp=drive_link"> Dataset - Dr. Michael Gebreslasie </a> <br>
+
+
 
 
 <!--
