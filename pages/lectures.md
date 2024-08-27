@@ -179,6 +179,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/clustering_data_final.csv" download> Data for clustering practical - Mohanad Mohammed </a> <br>
 
 
+<h4> Day 2:</h4>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Analyse COVID HNK.docx" download> Analyse COVID HNK - Dr. Michael Gebreslasie </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Track virus spread with ArcGIS Insights.docx" download> Analyse COVID HNK - Dr. Michael Gebreslasie </a> <br>
+
+
 <!--
 <h5>Groups Presentations</h5>
 
