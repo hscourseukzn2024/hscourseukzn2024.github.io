@@ -190,6 +190,32 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://drive.google.com/file/d/1IgoO8kN7e_8o-4lu-0vH-xjaWBNIVkyl/view?usp=drive_link"> Dataset - Dr. Michael Gebreslasie </a> <br>
 
 
+<h4> Day 3:</h4>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Health Information Systems2024_DSI.pdf" download> Health Information Systems - Prof. Saloshni Naidoo </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Designing and Implementing Health Information Systems.pdf" download> Designing and Implementing Health Information Systems - Dr. Sadiyya Sheik </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/1_Quality Concepts 2024.pdf" download> Quality Concepts - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/2 Continuous Quality Improvement 2024.pdf" download> Continuous Quality Improvement - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/3 Institute of Healthcare Improvement QI Models.pdf" download> Institute of Healthcare Improvement QI Models - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/4_Quality Improvement Models.pdf" download> Quality Improvement Models - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/5_Six Sigma Quality Improvement Methodology.pdf" download> Six Sigma Quality Improvement Methodology - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/6_Lean QI Methodology.pdf" download> Lean QI Methodology - Dr. Avashri Harrichandparsad </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/7_Quality Assurance in South Africa.pdf" download> Quality Assurance in South Africa - Dr. Avashri Harrichandparsad </a> <br>
+
+
+<h4> Day 4:</h4>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Health Information Systems2024_DSI.pdf" download> Health Information Systems - Prof. Saloshni Naidoo </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Designing and Implementing Health Information Systems.pdf" download> Designing and Implementing Health Information Systems - Dr. Sadiyya Sheik </a> <br>
 
 
 <!--
