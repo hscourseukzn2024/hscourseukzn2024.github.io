@@ -210,15 +210,21 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/7_Quality Assurance in South Africa.pdf" download> Quality Assurance in South Africa - Dr. Avashri Harrichandparsad </a> <br>
 
-
+<!--
 <h4> Day 4:</h4>
 
-<a href="https://hscourseukzn2024.github.io/PDFLectures/Health Information Systems2024_DSI.pdf" download> Health Information Systems - Prof. Saloshni Naidoo </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Session 1_Health Financing_HSS short course_August2024.pdf" download> Health Financing - Prof. Gavin George </a> <br>
 
-<a href="https://hscourseukzn2024.github.io/PDFLectures/Designing and Implementing Health Information Systems.pdf" download> Designing and Implementing Health Information Systems - Dr. Sadiyya Sheik </a> <br>
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Session 3_DCE_HSS short course_August2024.pdf" download> DCE - Prof. Gavin George </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_COVID19.docx" download> Group Work - COVID19 - Prof. Gavin George </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_HRH.docx" download> Group Work_HRH - Prof. Gavin George </a> <br>
+
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_PrEP.docx" download> Group Work_PrEP - Prof. Gavin George </a> <br>
 
 
-<!--
+
 <h5>Groups Presentations</h5>
 
 <a href="https://hscourseukzn.github.io/PDFLectures/Data science QIP vino.pdf" download> Data science QIP - [Dennis - Vincent - Jeroen - Vino] </a> <br>
