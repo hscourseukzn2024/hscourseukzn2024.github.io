@@ -218,7 +218,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Health financing presentation.pdf" download> Health financing presentation 2 - Dr. Sean </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Session 3_DCE_HSS short course_August2024.pdf" download> DCE - Prof. Gavin George </a> <br>
-<!--
+
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_COVID19.docx" download> Group Work - COVID19 - Prof. Gavin George </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_HRH.docx" download> Group Work_HRH - Prof. Gavin George </a> <br>
@@ -227,7 +227,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-
+<!--
 
 
 
