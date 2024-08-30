@@ -230,6 +230,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Case Studies.docx" download> Case Studies (Discussion) </a> <br>
 
+<a href="https://hscourseukzn2024.github.io/PDFLectures/Exercise Clustering.pdf" download> Exercise Clustering </a> <br>
+
 <a href="https://hscourseukzn2024.github.io/PDFLectures/breast_cancer.csv" download> Breast Cancer Dataset </a> <br>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/diabetes.csv" download> Diabetes Dataset </a> <br>
