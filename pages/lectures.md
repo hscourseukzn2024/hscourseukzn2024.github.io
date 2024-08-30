@@ -226,7 +226,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Group Work_PrEP.docx" download> Group Work_PrEP - Prof. Gavin George </a> <br>
 
 
-<h4> Day 4:</h4>
+<h4> Day 5:</h4>
 
 <a href="https://hscourseukzn2024.github.io/PDFLectures/Case Studies.docx" download> Case Studies (Discussion) </a> <br>
 
